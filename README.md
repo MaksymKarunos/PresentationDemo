@@ -2,7 +2,9 @@
 
 # Get and Run
 
-```git pull https://github.com/MaksymKarunos/PresentationDemo```
+```git clone https://github.com/MaksymKarunos/PresentationDemo```
+
+```git pull```
 
 If you don't have gcc you can run ```sudo-apt install gcc``` if you are on Linux 
 
